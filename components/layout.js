@@ -28,26 +28,24 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         {home ? (
           <>
-            <Image
-              priority
+            <img
               src="/images/photo.jpg"
               className={utilStyles.borderCircle}
               height={144}
               width={144}
-              alt=""
+              alt="Profile photo not found"
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
           </>
         ) : (
           <>
             <Link href="/">
-              <Image
-                priority
+              <img
                 src="/images/photo.jpg"
                 className={utilStyles.borderCircle}
                 height={108}
                 width={108}
-                alt=""
+                alt="Profile photo not found"
               />
             </Link>
             <h2 className={utilStyles.headingLg}>
