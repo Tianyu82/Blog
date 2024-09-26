@@ -1,5 +1,5 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
+title: '[Frontend][Nextjs] When to Use Static Generation v.s. Server-side Rendering'
 date: '2024-09-20'
 ---
 
