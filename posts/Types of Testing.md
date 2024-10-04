@@ -1,5 +1,5 @@
 ---
-title: '[Testing] Static Testing vs Dynamic Testing'
+title: '[Testing] Static Testing or Dynamic Testing? You may need both of them'
 date: '2024-09-16'
 ---
 

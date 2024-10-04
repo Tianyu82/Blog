@@ -1,7 +1,9 @@
 ---
-title: 'Several Ways to Implement DIVISION in SQL'
+title: '[SQL] Division is not supported by SQL implementations. But don't worry.'
 date: '2024-09-29'
 ---
+
+This division is not the arithmetic division operator (/). Don't get confused.
 
 In SQL, the division operator is often needed in scenarios where you want to identify entities that meet all specified conditions across different datasets. Here are a few common examples:
 

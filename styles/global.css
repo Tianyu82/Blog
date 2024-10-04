@@ -35,3 +35,15 @@ img {
   max-width: 100%;
   display: block;
 }
+
+pre {
+  background-color: #f5f5f5;
+  padding: 10px;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+
+code {
+  font-family: monospace;
+  color: #4009f4; /* Customize the text color if needed */
+}
