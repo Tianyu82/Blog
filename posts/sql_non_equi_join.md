@@ -1,6 +1,6 @@
 ---
 title: '[SQL] Things that you may not know about Non-equi join in SQL'
-date: '2024-10-02'
+date: '2024-10-03'
 ---
 
 If you think tables can be joined only using the common field, then this blog is for you.  
