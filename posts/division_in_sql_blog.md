@@ -1,5 +1,5 @@
 ---
-title: '[SQL] Two Forms of Pre-rendering'
+title: '[SQL] Several ways to implement DIVISION in SQL'
 date: '2024-09-29'
 ---
 
