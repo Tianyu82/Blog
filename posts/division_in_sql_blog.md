@@ -1,5 +1,5 @@
 ---
-title: '[SQL] Division is not supported by SQL implementations. But don't worry.'
+title: '[SQL] Two Forms of Pre-rendering'
 date: '2024-09-29'
 ---
 
