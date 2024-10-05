@@ -1,6 +1,6 @@
 ---
 title: '[Frontend][Nextjs] When to Use Static Generation v.s. Server-side Rendering'
-date: '2024-09-20'
+date: '2024-02-13'
 ---
 
 We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.

@@ -1,6 +1,6 @@
 ---
 title: '[SQL] Use UNION, INTERSECT, and EXCEPT in SQL'
-date: '2024-09-25'
+date: '2024-09-18'
 ---
 
 In this post, we'll explore how to use the `UNION`, `INTERSECT`, and `EXCEPT` operators in SQL. We'll work with two relations: `Own` and `Account`, and look at some specific queries involving accounts in different branches.

@@ -1,6 +1,6 @@
 ---
 title: '[JavaScript] To Be Null or To Be Undefined: That’s a Big Problem'
-date: '2024-10-04'
+date: '2024-06-21'
 ---
 
 Beginners often confuse `null` with `undefined` in JavaScript. In this article, I’ll explain the differences and use cases of these two similar concepts, which can both be thought of as meaning "nothing" in natural language.
