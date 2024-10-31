@@ -1,5 +1,5 @@
 ---
-title: '[XML] XML vs HTML'
+title: '[Selenium] XML vs HTML'
 date: '2024-10-18'
 ---
 # 

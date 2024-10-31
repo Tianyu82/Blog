@@ -1,6 +1,6 @@
 ---
-title: '[Selenium] Quiz - Basic Commands in Selenium'
-date: '2024-10-27'
+title: '[Selenium] Quiz - Basic Commands in Selenium (Python Version)'
+date: '2024-10-30'
 ---
 
 ### Questions:
