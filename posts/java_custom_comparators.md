@@ -1,6 +1,6 @@
 ---
 title: '[Java] Custom Comparators Must Be Reference Types'
-date: '2024-10-15'
+date: '2024-10-07'
 ---
 
 When sorting arrays with custom rules in Java, new programmers often make the mistake of using custom comparators with primitive types. In Java, **custom comparators work only on reference types**, not on primitive types like `int`, `double`, or `char`. If you aren't aware of this, take a few minutes to read through this blog to avoid common errors when sorting arrays.

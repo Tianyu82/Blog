@@ -1,5 +1,5 @@
 ---
-title: '[Selenium] XML vs HTML'
+title: '[Automation Testing] XML vs HTML'
 date: '2024-10-18'
 ---
 # 

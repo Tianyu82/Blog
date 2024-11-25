@@ -1,6 +1,6 @@
 ---
 title: '[Selenium] Understanding the Four Layers in Selenium WebDriver Framework'
-date: '2024-10-17'
+date: '2024-10-26'
 ---
 
 Conceptually, all QA automation frameworks are structured into four key layers:
