@@ -46,14 +46,9 @@ Tools like JMeter, Gatling, or LoadRunner are commonly used to automate these te
 #### Unit Testing  
 Unit testing focuses on validating individual components or units of a software application in isolation. Automated unit tests, often written by developers, are run early and frequently to catch bugs during the development phase. This practice promotes faster feedback and helps maintain the code's quality over time.  
 
-Frameworks like JUnit (Java), Jest(JavaScript/TypeScript) and PyTest (Python) are commonly used for automating unit tests. For example, while developing a REST API, automated unit tests ensure that each endpoint functions correctly before integrating it with other components.  
+Frameworks like JUnit (Java), Jest(JavaScript/TypeScript) and PyTest (Python) are commonly used for automating unit tests.
 
 #### Repetitive and High-Volume Testing Tasks  
 Tasks that involve executing the same tests across multiple environments, datasets, or configurations are better suited for automation.  
 
 For instance, cross-browser testing, where a web application needs to be validated across multiple browsers and their versions, can be efficiently automated using tools like Selenium or BrowserStack. This saves time and ensures consistent coverage.  
-
----
-
-### Conclusion  
-Both manual and automation testing have their strengths and are best suited for different scenarios. Manual testing excels in areas requiring human judgment, creativity, and adaptability, automation testing is good at in scenarios involving repetitive, large-scale, or highly technical tasks. A balanced approach that combines both methodologies ensures comprehensive test coverage and high-quality software delivery.

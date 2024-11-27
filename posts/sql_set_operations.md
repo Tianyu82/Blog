@@ -32,6 +32,22 @@ WHERE A.Branch_Name = 'Robson' OR A.Branch_Name = 'Lonsdale';
 ### Explanation:
 - The `OR` operator ensures that we select `Customer_ID`s for customers who have accounts in either branch.
 
+You can also rewrite the code above using **UNION**, but the query looks longer:
+
+```sql
+SELECT o.Customer_ID
+FROM Own o
+JOIN Account a ON o.Account_ID = a.Account_ID
+WHERE a.Branch_Name = 'Robson'
+
+UNION
+
+SELECT o.Customer_ID
+FROM Own o
+JOIN Account a ON o.Account_ID = a.Account_ID
+WHERE a.Branch_Name = 'Lonsdale';
+```
+
 ---
 
 ## Question 2: Find the `Customer_ID`s of customers who have accounts in **both** the Robson and the Lonsdale branches

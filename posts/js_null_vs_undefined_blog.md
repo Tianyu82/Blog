@@ -16,9 +16,6 @@ The value ***`undefined`*** represents the absence of an assigned value. It is a
 
 ### Key Differences
 `null` and `undefined` are distinct types:
-- `undefined` is its own type (`undefined`), while `null` is an object.
-  
-### Proof:
 ```javascript
 console.log(null === undefined);  // false (not the same type)
 console.log(null == undefined);   // true (same value after type coercion)
