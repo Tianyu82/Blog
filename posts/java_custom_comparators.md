@@ -44,9 +44,3 @@ Arrays.sort(strs, (a, b) -> {
 });
 ```
 
-### Key Takeaways
-
-- **Primitive types cannot be directly used in custom comparators**: You must use wrapper classes like `Integer`, `Double`, or `Character` when applying custom sorting logic in Java.
-- When sorting based on custom rules, make sure to work with **reference types** to avoid errors.
-
-By keeping this in mind, you'll avoid common pitfalls and make your custom sorting operations smoother in Java!

@@ -97,7 +97,3 @@ ON h.id = d.house_id AND d.date >= '2020-03-01';  -- Non-equi JOIN
 
 Now, all houses are listed, regardless of whether they have a corresponding deal.
 
-## Conclusion
-
-Non-equi joins provide powerful ways to combine data based on conditions beyond simple equality, enabling complex queries that can yield meaningful insights.
-

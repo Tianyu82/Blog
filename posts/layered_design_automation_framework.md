@@ -114,7 +114,3 @@ if __name__ == "__main__":
 In the `LoginTests` class:
 - The `test_successful_login` and `test_unsuccessful_login` test cases implement the business logic, such as asserting URLs or error messages, without directly interacting with Selenium commands.
 - Each test case relies on the `LoginPage` methods to perform actions on the page.
-
-## Summary
-
-In a well-designed TAA, the **Test Abstraction Layer** encapsulates calls to Selenium WebDriver methods, allowing the **Test Execution Layer** to focus solely on business logic. This separation ensures that tests are easier to read, maintain, and adapt to UI changes without modifying test logic. Following these principles makes your automation framework more robust and efficient.

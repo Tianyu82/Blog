@@ -50,6 +50,3 @@ element = wait.until(EC.element_to_be_clickable((By.ID, 'someID')))
 
 This code waits up to 10 seconds for an element, identified by ID, to be clickable. If the element is neither found nor clickable within the time frame, a `TimeoutException` is thrown. Explicit waits check both the existence and interactability of elements, offering a more precise approach compared to implicit waits.
 
-### Conclusion
-
-Choosing the right waiting mechanism can significantly affect the robustness and efficiency of your test scripts. While brute force waits are less desirable, implicit and explicit waits each have their use cases, with explicit waits providing the most granularity.

@@ -36,11 +36,3 @@ The **Test Adaptation Layer** provides the necessary code and objects to communi
 
 This layer isolates the test cases/test suites from the SUT itself, ensuring that the automation framework can work across different environments with minimal changes.
 
-### Summarizing the Process
-
-Here’s a simple summary of how these layers work together:
-1. **Test Cases** -> (mapped to) -> **Test Scripts** 
-2. **Test Scripts** -> (call) -> **WebDriver API** 
-3. **WebDriver API** -> (interacts with) -> **SUT**
-
-By following this layered architecture, Selenium and other automation frameworks can ensure efficient and flexible test automation that scales well with different systems and technologies.

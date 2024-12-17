@@ -1,5 +1,5 @@
 ---
-title: '[Selenium] Quiz - Basic Commands in Selenium (Python Version)'
+title: '[Selenium] Review Basic Commands in Selenium (Python Version)'
 date: '2024-10-30'
 ---
 
